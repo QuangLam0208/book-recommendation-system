@@ -1,0 +1,4 @@
+9780143127796 The Python Journey is a joyful journey into learning Python programming for beginners. It helps you understand coding happily.
+9780062316097 The Mystery of bugs is a suspenseful story about finding a critical bug in production server. It is full of fear and mystery.
+9780307277671 Sad Server Logs is a very sad story about a server that crashed on Friday evening. It makes sysadmins cry.
+9781400033416 The Surprise Deploy is an angry and surprising tale of deploying code without testing. It causes a lot of anger in the team.

@@ -20,7 +20,9 @@ books["large_thumbnail"] = np.where(
 )
 
 raw_documents = TextLoader("tagged_description.txt").load()
-text_splitter = CharacterTextSplitter(separator="\n", chunk_size=0, chunk_overlap=0)
+# text_splitter = CharacterTextSplitter(separator="\n", chunk_size=0, chunk_overlap=0)
+# Đổi số 0 thành 1000 (hoặc số lớn hơn độ dài dòng dài nhất trong file text của bạn)
+text_splitter = CharacterTextSplitter(separator="\n", chunk_size=1000, chunk_overlap=0)
 documents = text_splitter.split_documents(raw_documents)
 db_books = Chroma.from_documents(documents, OpenAIEmbeddings())
 

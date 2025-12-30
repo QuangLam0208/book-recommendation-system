@@ -1,0 +1,5 @@
+isbn13,title,authors,simple_categories,thumbnail,description,joy,surprise,anger,fear,sadness
+9780143127796,The Python Journey,Guido van Rossum,Non-fiction,http://books.google.com/books/content?id=mock1&printsec=frontcover&img=1&zoom=1&source=gbs_api,A joyful journey into learning Python programming for beginners.,0.9,0.1,0.0,0.0,0.0
+9780062316097,The Mystery of bugs,Sherlock Holmes;Dr. Watson,Fiction,http://books.google.com/books/content?id=mock2&printsec=frontcover&img=1&zoom=1&source=gbs_api,A suspenseful story about finding a critical bug in production server.,0.1,0.2,0.1,0.8,0.1
+9780307277671,Sad Server Logs,Sys Admin,Technology,http://books.google.com/books/content?id=mock3&printsec=frontcover&img=1&zoom=1&source=gbs_api,A very sad story about a server that crashed on Friday evening.,0.0,0.1,0.2,0.1,0.9
+9781400033416,The Surprise Deploy,Junior Dev,Fiction,http://books.google.com/books/content?id=mock4&printsec=frontcover&img=1&zoom=1&source=gbs_api,An angry and surprising tale of deploying code without testing.,0.1,0.8,0.7,0.2,0.1
